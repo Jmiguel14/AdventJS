@@ -8,4 +8,5 @@ Cada reto tendrá diferentes dificultades y tienes un editor para resolverlo.
 
 Puedes guardar tu progreso, iniciando sesión con GitHub. 🦑
 
-![image](https://user-images.githubusercontent.com/56648593/144946346-12b4b776-f403-495f-80ec-507f66c63b2a.png)(https://adventjs.dev/)
+[Ir a los ejercicios - AdventJS]((https://adventjs.dev/))
+![image](https://user-images.githubusercontent.com/56648593/144946346-12b4b776-f403-495f-80ec-507f66c63b2a.png)
